@@ -1,0 +1,38 @@
+.d-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.justify-content-around {
+    justify-content: space-around;
+}
+
+.border {
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.p-5 {
+    padding: 10px;
+}
+
+.m-5 {
+    margin: 10px;
+}
+
+.card {
+    width: 48%;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+
+.search-bar {
+    padding: 10px;
+    font-size: 20px;
+}
